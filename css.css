@@ -1,0 +1,100 @@
+#title{
+    background-image: url(images/p1new.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 760px;
+    color: white;
+    padding: 30px;
+}
+
+
+
+
+.navposition{
+    position: absolute;
+    right:2%;
+}
+
+.nav{
+    position: relative;
+
+}
+body{
+    color: #fff;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+header{
+    padding: 12%;
+    
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+.heading1 h1{
+    font-size: 4rem;
+    padding-bottom: 5%;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+li{
+    display: inline;
+    padding: 20px;
+}
+
+nav{
+    padding: 40px;
+}
+
+
+
+#products{
+    background-color: #4169E1;
+    text-align:center;
+    padding:5%;
+}
+
+.optionimg{
+
+    padding: 7%;
+}
+
+#products h1{
+    padding: 5%;
+    font-size: 3rem;
+}
+
+.btn-product{
+    margin: 3%;
+}
+
+.container-fluid{
+    padding:3% 5%;
+  }
+
+
+  #contact{
+      background-image: url(images/p2.jpg);
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      padding: 10%;
+      text-align: center;
+  }
+
